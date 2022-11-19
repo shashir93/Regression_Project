@@ -1,2 +1,7 @@
+numpy
+pandas
+matplotlib
+sklearn
 Flask
 gunicorn
+-e .
