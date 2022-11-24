@@ -1,2 +1,5 @@
 best_model:
-  model_path: E:\Projects\Regression_Project\housing\artifact\model_trainer\2022-11-23-02-39-17\trained_model\model.pkl
+  model_path: E:\Projects\Regression_Project\housing\artifact\model_trainer\2022-11-25-03-03-01\trained_model\model.pkl
+history:
+  2022-11-25-03-03-01:
+    model_path: E:\Projects\Regression_Project\housing\artifact\model_trainer\2022-11-23-02-39-17\trained_model\model.pkl
